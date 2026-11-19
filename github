@@ -1,0 +1,13 @@
+Over the past eight weeks in the Power Learn Project (PLP) Data Analytics track, I wrapped up my end-to-end capstone analyzing H1 2026 retail sales performance for Duka Electronics—from raw data quality auditing and SQL modeling to statistical testing and a Looker Studio dashboard.
+
+A few highlights from the analysis:
+• Branch divergence: Nairobi leads total revenue volume, while Eldoret recorded strong Q1-to-Q2 growth, and secondary branches saw Q2 pullbacks driven by repeat order frequency.
+• Product mix trade-offs: High-ticket devices drive major top-line revenue from fewer orders, while accessories support strong margin and order counts.
+• Statistical check: A Mann-Whitney U test (p < 0.001) confirmed higher per-order spend among higher loyalty tiers, reinforcing targeted retention over blanket discounting.
+
+Full reproducible code, SQL queries, executive summary, and dashboard details are on GitHub:
+[Insert Your GitHub Repository URL]
+
+Always open to Junior Data Analyst, BI Analyst, and Data & Operations roles—happy to share how I structured the pipeline or walk through the SQL and Python code.
+
+#DataAnalytics #SQL #Python #Pandas #LookerStudio #DataVisualization #PowerLearnProject
